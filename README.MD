@@ -23,3 +23,6 @@ Après avoir recu des messages de M.Hueber pour nous dire que la caméra a bien 
 ![Lego mindstorm education](LME.jpg)
 ![Robot Ev3](Ev3.jpg)
 ![Cahier des charges trello](Trello.png)
+[![Watch the video](https://images.app.goo.gl/5szfG59t4gm3N3H4A)](https://youtube.com/shorts/n6BIJFgg_PI?feature=share)
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtube.com/shorts/n6BIJFgg_PI?feature=share)
