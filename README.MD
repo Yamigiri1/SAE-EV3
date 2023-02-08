@@ -22,4 +22,4 @@ Après avoir recu des messages de M.Hueber pour nous dire que la caméra a bien 
 ![Code python](Python.jpg)
 ![Lego mindstorm education](LME.jpg)
 ![Robot Ev3](Ev3.jpg)
-![Cahier des charges trello](Trello.jpg)
+![Cahier des charges trello](Trello.png)
