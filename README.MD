@@ -27,5 +27,8 @@ Après avoir recu des messages de M.Hueber pour nous dire que la caméra a bien 
 ![Lego mindstorm education](LME.jpg)
 ![Robot Ev3](Ev3.jpg)
 ![Cahier des charges trello](Trello.png)
-
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtube.com/shorts/n6BIJFgg_PI?feature=share)
+
+Durant notre séance du vendredi 10/02 nous avons reçu notre caméra, par contre le câble n'était pas adapté, Elliot est donc allé a L'IUT LAB pour modifier les connectiques du câble, une fois fait il a commencé a prendre en main la caméra. Quant à Maxime il a du construire un nouveau robot car le précédent n'était pas disponible. Durant la séance, des élèves de lycée sont intervenue pour connaître notre filière. Jean c'est occupé de leurs expliquer ainsi que de leurs faire une démo de notre projet.       
+
+
