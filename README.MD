@@ -8,7 +8,7 @@
 
 ### Equipe : Elliot Veglio / Maxime Wegbecher / Jean Vogel
 
-### Référent : M.Mourillon / M.Hueber
+### Référent : M.Mourillion / M.Hueber
 
 #### Avancement :
 
