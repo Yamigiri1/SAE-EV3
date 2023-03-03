@@ -6,16 +6,12 @@
 
 - Achat caméra pixy 
 - Contre rendu de la seamine précédente
-- Elliot : Développement du cahier des charges officiel sur Trello
+- Elliot : Développement du cahier des charges officiel sur Trello (https://trello.com/invite/b/C0O8bNfg/ATTIc7ef8f9a206cdfd3b2054dab92e7c462C8E4378A/sae-4-lego-mindstorm)
 - Maxime : Codage sur visual studio code du suiveur de ligne, ainsi que du détecteur d'obsatcle fixe
 - Jean : Alimentation du GitHub
 
 ###### Visualisation des objectifs : 
 
-![Code python](Python.jpg)
-![Lego mindstorm education](LME.jpg)
-![Robot Ev3](Ev3.jpg)
-![Cahier des charges trello](Trello.png)
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtube.com/shorts/n6BIJFgg_PI?feature=share)
 
 2ème séance : 
