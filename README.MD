@@ -11,5 +11,7 @@
 ### Référent : M.Mourllion / M.Hueber
 
       
+#### Le Lego EV3 :
 
+1. Le LEGO EV3 est robot pédagogique fournit par l’entreprise Lego. Il peut s'assembler de plusieurs façons, de nombreux capteurs sont compatibles. 
 
