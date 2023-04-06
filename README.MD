@@ -35,7 +35,6 @@ Elliot
 
 En partant de la base de Gyro Boy fournie par LEGO MINDSTROMS Education, nous avons enlevé le capteur de couleur pour utiliser l'entrée du capteur pour la caméra PIXY V2. Comme dit plus haut nous avons modifier un cable de connection RJ11 pour connecter ladite caméra.
 
-
 ##### Explication partie importante du code 
 
 Maxime
