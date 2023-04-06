@@ -37,7 +37,26 @@ Maxime
 
 ##### Explication partie importante du code 
 
-Maxime
+La partie la plus importante du Gyropode est le PID qui permet au Gyropode de tenir sur ses deux roues.
+
+En effectuant des études du PID par tâtonnements en changeant les variables des différents correcteurs (Proportionnel, Intégrale et Dérivé) :
+
+"
+# valeurs d'origine : -0.01 / 0.8 / 15 / 0.08 / 0.12
+output_power = (-0.01 * drive_speed) + (0.8 * robot_body_rate +
+                                        20 * robot_body_angle +
+                                        0.08 * wheel_rate +
+                                        0.12 * wheel_angle)
+if output_power > 100:
+    output_power = 100
+if output_power < -100:
+    output_power = -100
+
+# Drive the motors.
+left_motor.dc(output_power - 0.1 * steering)
+right_motor.dc(output_power + 0.1 * steering)
+
+"
 
 ##### Problème rencontrés
 
