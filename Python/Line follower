@@ -1,3 +1,33 @@
+#!/usr/bin/env pybricks-micropython
+""" Sample application for pixycamev3
+Use this example on LEGO EV3 brick running pybricks-micropython.
+This example is a linetracking application.
+You can improve this example by adding a PID-controller,
+for simplicity a PID is left out now.
+Standard behavior at an intersection is to go straight, but
+you can change this behaviour with the aid of two Pixy barcodes:
+- barcode 0: turn left at the first intersection
+- barcode 5: turn right at the first intersection
+Download the barcodes from the Pixy2 wiki:
+https://pixycam.com/downloads-pixy2/
+If your robot drives in the wrong direction you need to change
+the polarity of the motors: set argument positive_direction
+to Direction.CLOCKWISE.
+If your robot seems to turn to the wrong direction (move
+from the line instead of following it), you probable need to
+switch ports for the motors.
+Building instructions:
+- LEGO EV3 brick running pybricks-micropython
+- Connect Pixy2 to port 1
+- Set I2C address to 0x54
+- Connect LEGO TouchSensor to port 4
+- Connect two LEGO LargeMotors to ports A and D
+Author  : Kees Smit
+Date    : December 29 2021
+Version : 1.00
+License : GNU General Public License v2
+Charmed Labs, www.charmedlabs.com
+"""
 from pybricks.hubs import EV3Brick
 from pybricks.ev3devices import Motor, TouchSensor
 from pybricks.parameters import Port, Direction
