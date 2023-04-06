@@ -1,4 +1,6 @@
-<img src="iut-mulhouse.jpg">
+<p align="center">
+  <img src="./logo/iut-mulhouse.jpg">
+</p>
 
 ### Bienvenue sur la SAE LEGO EV3 
 
