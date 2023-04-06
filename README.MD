@@ -51,7 +51,7 @@ Vous pouvez voir les photos et vidéo [ici](https://github.com/Yamigiri1/SAE-EV3
 
 Au cours de cette année, nous avons appris à instrumentaliser, et reguler un robot Lego EV3 pour améliorer ses performances. L'amélioration majeure apportée est une caméra qui permet de suivre des parcours plus complexe et avec une meilleur précision car comparé a un capteur de couleur qui est pointé vers le bas et qui ne peut analyser en avance, la caméra vois sur une longue porté. Dans un second temps la caméra nous permet le retour d'informations qui est un grand plus en permetant de suivre le robot sans forcement l'avoir sous les yeux, le retour d'informations nous permet aussi de faire des mesures grâces a une croix directionelle, on peut par exemple connaitre la latence entre la demande manuel de direction et le retour caméra. Nous avons découvert, pour certain, GitHub. Nous avons appris à nous servir de Mindstorms et enrichi nos connaissances en Python. 
 
-Nous avons réalisé le projet sur une période de 108 heures et nous n'avons pas pu respecter les délais que nous étions fixé. Vous pouvez voir [ici] le gantt théorique, le gantt réel, ainsi que le tableau des coûts.
+Nous avons réalisé le projet sur une période de 108 heures et nous n'avons pas pu respecter les délais que nous étions fixé. Vous pouvez voir [ici] le gantt théorique, le gantt réel, ainsi que le tableau des coûts. Et voici le [Trello](https://trello.com/invite/b/C0O8bNfg/ATTIc7ef8f9a206cdfd3b2054dab92e7c462C8E4378A/sae-4-lego-mindstorm)
 
 #### Perspective pour les suites éventuelles
 
