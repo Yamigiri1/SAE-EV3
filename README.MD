@@ -33,7 +33,7 @@ Elliot
 
 ##### Construction
 
-En partant de la base fournie par 
+Maxime
 
 ##### Explication partie importante du code 
 
@@ -47,13 +47,15 @@ Maxime/Jean
 
 Vous pouvez voir les photos et vidéo [ici](https://github.com/Yamigiri1/SAE-EV3/tree/main/Images)
 
-#### Amélioration : 
-
-Jean
-
 #### Synthèse : 
 
 Jean
+
+#### Perspective pour les suites éventuelles
+
+Après la réalisation de notre projet, notre système permet au robot à 3 roue de suivre une ligne avec la caméra tout en esquivant les obstacles éventuelles, ce qui nous ouvre la voie à de nombreuses perspectives.
+
+Tout d'abord, on pourrait améliorer le PID, pour ainsi avoir la meilleur stabilité et rapipdité possible. On pourrait par la suite envisagé de lier la caméra et le détectur d'obstacles a un Gyropode pour ajouter une contrainte au projet. On pourrait également terminer l'interface graphique pour avoir un retour d'information de la caméra, ainsi qu'une commande manuelle pour diriger le robot vers un parcours a suivre par exemple. 
       
 #### Source :
 
