@@ -33,9 +33,10 @@ En tant qu'étudient, notre but était donc d'instrumenter ce robot pour avoir d
 
 ##### Synthèse
       
-##### Source 
+##### Source :
 
 [Bibliothéque Pixy2](https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:start)
-
+[Site d'achat Pixy2](https://www.generationrobots.com/fr/403011-camera-pixy-2-v2-1.html)
+[GitHub Pixy2](https://github.com/charmedlabs/pixycamev3)
 
 
