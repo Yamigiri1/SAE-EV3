@@ -25,13 +25,23 @@ En tant qu'étudient, notre but était donc d'instrumenter ce robot pour avoir d
 
 ##### Synthèse sur l'étude des capteurs
 
+Maxime/Jean
+
 ##### Réalisation du cable 
+
+Elliot
 
 ##### Construction
 
+Maxime
+
 ##### Explication partie importante du code 
 
+Maxime
+
 ##### Problème rencontrés
+
+Maxime/Jean
 
 #### Résultat :
 
@@ -39,7 +49,11 @@ Vous pouvez voir les photos et vidéo [ici](https://github.com/Yamigiri1/SAE-EV3
 
 #### Amélioration : 
 
-#### Synthèse
+Jean
+
+#### Synthèse : 
+
+Jean
       
 #### Source :
 
