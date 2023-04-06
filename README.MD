@@ -61,9 +61,30 @@ En effectuant des études du PID par tâtonnements en changeant les variables de
 
 ```
 
+Par consequent ayant déjà fait des moidifications sur l'action du PID, nous avons trouvé par tâtonnement que le terme multiplier au 'robot_body_angle' devait être de 40 et qu'en parallèle l'output power devait être soustrait à +/- 0.3.
+Avec cette correction le gyro était beaucoup plus réactif et ne titubait plus.
+
+Code après test :
+```py
+
+        output_power = (-0.01 * drive_speed) + (0.8 * robot_body_rate +
+                                                40 * robot_body_angle +
+                                                0.08 * wheel_rate +
+                                                0.12 * wheel_angle)
+        if output_power > 100:
+            output_power = 100
+        if output_power < -100:
+            output_power = -100
+
+        # Drive the motors.
+        left_motor.dc(output_power - 0.3 * steering)
+        right_motor.dc(output_power + 0.3 * steering)
+
+```
+
 ##### Problème rencontrés
 
-Maxime/Jean
+Jean
 
 #### Résultat :
 
