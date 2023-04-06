@@ -42,6 +42,7 @@ La partie la plus importante du Gyropode est le PID qui permet au Gyropode de te
 En effectuant des études du PID par tâtonnements en changeant les variables des différents correcteurs (Proportionnel, Intégrale et Dérivé) :
 
 "
+
 //valeurs d'origine : -0.01 / 0.8 / 15 / 0.08 / 0.12
 output_power = (-0.01 * drive_speed) + (0.8 * robot_body_rate +
                                         20 * robot_body_angle +
