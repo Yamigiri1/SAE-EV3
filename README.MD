@@ -33,7 +33,9 @@ En tant qu'étudient, notre but était donc d'instrumenter ce robot pour avoir d
 
 ##### Synthèse
       
-#### Le Lego EV3 :
+##### Source 
+
+[Bibliothéque Pixy2](https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:start)
 
 
 
