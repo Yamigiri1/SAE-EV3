@@ -15,7 +15,9 @@
 
 ##### Contexte de la SAE
 
-Sur un robot industriel, l'interface graphique est essentiel car elle permet aux opérateur de suivre le robot et de savoir s'il commet des erreurs, de plus un robot industriel ce doit d'être autonome une fois en fonctionnement, il ce doit de pouvoir suivre un parcours et d'avoir des automatismes de sécurité si jamais des obstacles ce mettent sur son parcours. Au sein de l'IUT nous avons des robot lego EV3$^1$ qui peuvent nous donner un apercu académique des robots industirels, les robots EV3 de l'IUT ne sont pour l'instant qu'utilsé avec le logiciel fourni par Lego (Mindstorms) et avec des programme assez simple. 
+Sur un robot industriel, l'interface graphique est essentiel car elle permet aux opérateur de suivre le robot et de savoir s'il commet des erreurs, de plus un robot industriel ce doit d'être autonome une fois en fonctionnement, il ce doit de pouvoir suivre un parcours et d'avoir des automatismes de sécurité si jamais des obstacles ce mettent sur son parcours. Au sein de l'IUT nous avons des robot lego EV3 qui peuvent nous donner un apercu académique des robots industirels, les robots EV3 de l'IUT ne sont pour l'instant qu'utilsé avec le logiciel fourni par Lego (Mindstorms) et avec des programme assez simple. 
+
+Le LEGO EV3 est robot pédagogique fournit par l’entreprise Lego. Il peut s'assembler de plusieurs façons, de nombreux capteurs sont compatibles. Ce qui en fait un des robot les plus complets pour l'enseignement. 
 
 ##### But du travail
 
@@ -35,5 +37,5 @@ En tant qu'étudient, notre but était donc d'instrumenter ce robot pour avoir d
       
 #### Le Lego EV3 :
 
-1. Le LEGO EV3 est robot pédagogique fournit par l’entreprise Lego. Il peut s'assembler de plusieurs façons, de nombreux capteurs sont compatibles. Ce qui en fait un des robot les plus complets pour l'enseignement. 
+
 
