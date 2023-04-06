@@ -33,7 +33,7 @@ Elliot
 
 ##### Construction
 
-Maxime
+En partant de la base fournie par 
 
 ##### Explication partie importante du code 
 
