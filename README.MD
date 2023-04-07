@@ -50,7 +50,7 @@ Elliot
 
 Sur la base des plans du Gyro boy fournie par LEGO, nous avons fait quelques modifications en enlevant le capteur de couleur pour avoir un port capteur disponible et attacher un caméra Pixy V2. Comme dit précédemment nous avons modifier un câble de communication RJ11 qui servait pour la transmission de données entre la brick et le capteur pour l’adapter aux pins de la caméra.
 
-Robot : [Gyro + Caméra](https://github.com/Yamigiri1/SAE-EV3/tree/main/Images/Robot_Face_avant.jpg)
+Robot : [Gyro + Caméra](Images/Robot_Face_avant.jpgavant.jpg)
 
 #### Explication partie importante du code 
 
