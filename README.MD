@@ -45,6 +45,7 @@ L'EV3 Brick est le cerveau qui utilise et récupère les données fourni par les
 #### Réalisation du cable 
 
 Comme dit précédement nous avons acheter une caméra Pixy V2 en version normal et non pas la version Lego qui comprenait un câble directement.
+Par conséquent nous avons utilisé un câble RJ11 coupé, puis nous avons soudés des pins femelles [ici](Images/).
 
 
 #### Construction
