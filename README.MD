@@ -27,11 +27,11 @@ En tant qu'étudient, notre but était donc d'instrumenter ce robot pour avoir d
 
 Dans notre sujet de SAE nous avons a disposition beaucoup de capteurs que nous pouvons utiliser :
 
->un capteur de couleur (qui peut etre utiliser comme un capteur de luminisité)
->un capteur à ultrasons
->un gyroscope
->une caméra Pixy V2 (version normal et non Lego, explication de notre démarche pour résoudre notre problème)
->une Brick EV3 (avec carte microSD pour la boot en EV3Dev, c'est à dire, programmer la brick en python ou micropython
+-un capteur de couleur (qui peut etre utiliser comme un capteur de luminisité)
+-un capteur à ultrasons
+-un gyroscope
+-une caméra Pixy V2 (version normal et non Lego, explication de notre démarche pour résoudre notre problème)
+-une Brick EV3 (avec carte microSD pour la boot en EV3Dev, c'est à dire, programmer la brick en python ou micropython
 
 #### Réalisation du cable 
 
