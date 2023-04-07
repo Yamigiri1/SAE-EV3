@@ -25,7 +25,7 @@ En tant qu'étudient, notre but était donc d'instrumenter ce robot pour avoir d
 
 #### Synthèse sur l'étude des capteurs
 
-Maxime/Jean
+Maxime
 
 #### Réalisation du cable 
 
@@ -84,7 +84,7 @@ Code après test :
 
 #### Problème rencontrés
 
-Jean
+Nous avons perdue beaucoup de temps a s'organiser et ce partager le travail, ce qui a fait que durant plusieurs seances on faisait le travail d'un a trois. Nous avons aussi perdue beaucoup de temps à nous former à de nouveaux outils tel que Visual Studio Code, le logiciel Lego Mindstorms ou encore avec la plate-forme GitHub. Pour finir un problème de communication entre tout les parties ne nous a pas aidé. Ce qui nous a fait tourner en rond sur quelques séances. 
 
 ### Résultat :
 
