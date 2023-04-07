@@ -37,6 +37,9 @@ Dans notre sujet de SAE nous avons a disposition beaucoup de capteurs que nous p
 
 * une Brick EV3 (avec carte microSD pour la boot en EV3Dev, c'est à dire, programmer la brick en python ou micropython
 
+Après études des différents capteurs sur leur fonctionnement nous avons décider que la caméra sera plus intéressante que le capteur de couleur pour le projet final car le capteur de couleur en fonctionnement de capteur de luminautité serait moins précis que la caméra à cause de son positionnement
+
+
 #### Réalisation du cable 
 
 Elliot
