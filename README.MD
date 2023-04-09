@@ -29,7 +29,7 @@ Dans notre sujet de SAE nous avons a disposition beaucoup de capteurs que nous p
 
 * un capteur de couleur (qui peut etre utiliser comme un capteur de luminisité)
 
-* un capteur à ultrasons
+* un capteur à ultrasons [voir](https://github.com/Yamigiri1/SAE-EV3/blob/main/Images/Capteur.jpg)
 
 * un gyroscope
 
