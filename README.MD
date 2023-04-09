@@ -31,7 +31,7 @@ Dans notre sujet de SAE nous avons a disposition beaucoup de capteurs que nous p
 
 * un capteur à ultrasons [voir](https://github.com/Yamigiri1/SAE-EV3/blob/main/Images/Capteur.jpg)
 
-* un gyroscope
+* un gyroscope [voir](https://github.com/Yamigiri1/SAE-EV3/blob/main/Images/Capteur1.jpg)
 
 * une caméra Pixy V2 (version normal et non Lego, explication de notre démarche pour résoudre notre problème)
 
